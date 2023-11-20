@@ -19,3 +19,8 @@ DrawerLayout
 ViewPager
 RecyclerView
 Tab bar
+
+Singleton
+Builder
+Factory
+Facade Pattern
