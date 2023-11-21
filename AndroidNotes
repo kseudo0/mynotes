@@ -21,6 +21,7 @@ DrawerLayout
 ViewPager
 RecyclerView
 Tab bar
+MVVM
 
 Library Project
 Singleton
